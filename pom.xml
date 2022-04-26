@@ -5,6 +5,7 @@
 	<groupId>org.mule.examples</groupId>
 	<artifactId>finaltest-connect-salesforce-sapi</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+	
 	<packaging>mule-application</packaging>
 
 	<name>finaltest-connect-salesforce-sapi</name>
